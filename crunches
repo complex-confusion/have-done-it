@@ -1,0 +1,10 @@
+done: y
+what: crunches
+when: 
+  date: 20180303
+  time: 13:00:00
+  timezone: EST
+sets_reps:
+  - num_sets: 5
+    num_reps: 20
+notes: first in a while.
